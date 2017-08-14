@@ -29,7 +29,7 @@
     "mustache": "^2.2.1",
     "node-localdb": "0.0.3",
     "node-uuid": "^1.4.7",
-    "pg": "4.5.6",
+    "pg": "4.5.7",
     "ping-stats": "^1.0.3",
     "promise": "^7.1.1",
     "randomstring": "^1.1.5",
