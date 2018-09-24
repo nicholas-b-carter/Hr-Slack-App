@@ -9,7 +9,7 @@
     "back": "^1.0.1",
     "beepboop-botkit": "^1.4.0",
     "body-parser": "^1.15.2",
-    "botbuilder": "^3.2.3",
+    "botbuilder": "^4.0.6",
     "botkit": "^0.1.1",
     "botkit-middleware-apiai": "^0.1.1",
     "botkit-studio-sdk": "^1.0.0",
